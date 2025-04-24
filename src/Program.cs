@@ -1,1 +1,5 @@
-##
+##Пример
+public class Test
+{
+
+}
