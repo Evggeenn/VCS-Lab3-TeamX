@@ -1,5 +1,0 @@
-##Пример
-public class Test
-{
-
-}
